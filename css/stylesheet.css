@@ -1,0 +1,32 @@
+hr {
+    background-color: #40DFEF;
+    border-top: 5px solid;
+    border-color: black;
+}
+
+body {
+    background-color: #B9F8D3;
+}
+
+.img {
+    image-resolution: 300dpi;
+    image-orientation: 300dpi;
+    height: 100%;
+    width: 100%;
+}
+
+button {
+    border: 1px solid;
+    border-radius: 3px;
+    height: 35px;
+    width: 100px;
+    font-style: normal;
+    font-weight: bold;
+    background-color: white;
+}
+
+nav {
+    padding: 20px;
+    background-color: #40DFEF;
+    text-align: center;
+}
